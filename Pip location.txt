@@ -1,0 +1,31 @@
+pip cd:
+C:\Users\georg\AppData\Local\Programs\Python\Python36-32\Scripts
+
+C:\Users\georg\Anaconda3\Scripts
+
+
+welcome.ipynb
+
+jupyter
+
+
+Target:: C:\Users\georg\AppData\Local\Programs\Python\Python36-32\python.exe
+C:\Users\georg\Anaconda3\python.exe C:\Users\georg\Anaconda3\cwp.py C:\Users\georg\Anaconda3 "C:/Users/georg/Anaconda3/python.exe" "C:/Users/georg/Anaconda3/Scripts/jupyter-notebook-script.py" %USERPROFILE%
+
+
+Start IN:: 
+
+C:\Users\georg
+
+pyenv  -- python virtual environment
+
+
+In python - import random
+
+Jupyter Notebook - import pandas as pd
+
+df = pd.DataFrame()
+df.hist()
+df.describe()
+etc
+
